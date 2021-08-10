@@ -53,6 +53,7 @@ https://bookme-app.netlify.app/
 - similar rooms suggestion algorithm when desired room is empty
 
 ## Presentation:
+<p>Click<a href="https://www.canva.com/design/DAEmP3UhXnM/phfuVBzqk9CM0YYD_H4Erg/view?utm_content=DAEmP3UhXnM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">here</a>to learn more about the project.</p>
 
 ## Deployment: 
 - Backend - Heroku.com
